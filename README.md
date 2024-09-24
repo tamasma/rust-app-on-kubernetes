@@ -2,6 +2,7 @@
 
 This repository provides a guide on deploying and scaling a Rust application on Kubernetes using Minikube.
 
+
 ## Prerequisites
 
 - [Minikube](https://minikube.sigs.k8s.io/docs/start/)
